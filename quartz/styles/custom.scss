@@ -1,3 +1,6 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Bump global font size (default 16px → 18px). All rem-based sizes scale together.
+html {
+  font-size: 18px;
+}
