@@ -1,5 +1,5 @@
 ---
-title: keisuke-na's blog
+title: notes
 ---
 
 Welcome. Posts will land here.
